@@ -105,7 +105,6 @@
         &nbsp;&nbsp;&nbsp;&#125;<br/>
         &nbsp;&#63;&gt;<br />
         &nbsp;&lt;br&gt;&lt;br&gt;<br/>
-        &nbsp;&lt;a&nbsp;href&#61;"https://hills.ccsf.edu/~eandrew6/php_objects.html"&gt;Click here to return to the original form&lt;/a&gt;&lt;br/&gt;<br/><br/>
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
