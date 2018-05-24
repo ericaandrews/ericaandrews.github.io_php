@@ -20,7 +20,6 @@
              &nbsp;&nbsp;echo&nbsp;"Here a "&#44;&nbsp;&#36;animalSound&#44;&nbsp;", there a "&#44;&nbsp;&#36;animalSound&#44;&nbsp;", everywhere a "&#44;&nbsp;&#36;animalSound&#44;"-"&#44;&#36;animalSound&#44;"&lt;br&gt;"&#59;<br />
              &nbsp;&#125;<br />
              &nbsp;&#63;&gt;<br />
-             &nbsp;&lt;br&gt;&lt;br&gt;<br />    
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
