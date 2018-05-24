@@ -11,8 +11,6 @@
         $payment = $totalamountofloan*(($interestrate*0.010)/12)*($xx/($xx-1));
         printf("%.2f",$payment);
     ?>
-    <br /><br />
-    <a href="php_webforms.php_sourcecode.php">php_webforms.php_sourcecode</a>
 </body>    
 </html>
 
