@@ -422,6 +422,5 @@
         }  
      }
     ?>
-    <a href="https://hills.ccsf.edu/~eandrew6/php_conditional_statements.html">Click here to return to the original form</a><br/>
 </body>    
 </html>
