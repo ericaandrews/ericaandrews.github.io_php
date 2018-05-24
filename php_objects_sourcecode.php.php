@@ -132,7 +132,6 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&#36;changeFacultyID&nbsp;&#61;&nbsp;&#36;&#95;POST&#91;"studentFacultyID"&#93;&#59;<br/>
         &nbsp;&nbsp;&nbsp;&#125;<br/>
         &nbsp;&#63;&gt;<br />
-        &nbsp;&lt;br&gt;&lt;br&gt;<br/>
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
