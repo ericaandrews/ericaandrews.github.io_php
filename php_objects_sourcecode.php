@@ -44,10 +44,7 @@
         
         &nbsp;&nbsp;&lt;input&nbsp;type&#61;"reset"&gt;<br/>
         &nbsp;&nbsp;&lt;input&nbsp;type&#61;"submit"&nbsp;value&#61;"Submit"&gt;<br/>
-        &nbsp;&lt;/form&gt;&lt;br&gt;&lt;br&gt;<br/>
-        &lt;a&nbsp;href&#61;"https://hills.ccsf.edu/~eandrew6/php_objects_sourcecode.html.php"&gt;php&#95;objects&#95;sourcecode&lt;/a&gt;<br/>
-        &lt;a&nbsp;href&#61;"https://hills.ccsf.edu/~eandrew6/php_objects_faculty_sourcecode.html.php"&gt;php&#95;objects&#95;faculty&#95;sourcecode&lt;/a&gt;<br/>
-        
+        &nbsp;&lt;/form&gt;&lt;br&gt;&lt;br&gt;<br/>        
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
