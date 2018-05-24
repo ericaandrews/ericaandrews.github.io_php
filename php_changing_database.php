@@ -176,9 +176,5 @@ change_data();
         $changeDOB = $_POST["studentDOB"];
     }    
 ?>
-    
-    <br /><br />
-    <a href="https://hills.ccsf.edu/~eandrew6/php_changing_database.html">Click here to return to the original form</a><br/>
-
 </body>    
 </html>
