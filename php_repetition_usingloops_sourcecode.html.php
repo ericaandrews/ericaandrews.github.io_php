@@ -13,7 +13,6 @@
         &nbsp;&nbsp;&lt;input&nbsp;type&#61;"number"&nbsp;name&#61;"size"&gt;<br />
         &nbsp;&nbsp;&lt;input&nbsp;type&#61;"submit"&nbsp;value&#61;"Submit"&gt;<br />
         &nbsp;&lt;/form&gt;&lt;br&gt;<br />
-        &nbsp;&lt;a&nbsp;href&#61;"php_repetition_usingloops_sourcecode.html.php"&gt;php_repetition_usingloops_sourcecode&lt;/a&gt;<br/>
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
