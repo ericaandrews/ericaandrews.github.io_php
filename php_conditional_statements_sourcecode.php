@@ -514,7 +514,6 @@
                 <br/>
         
             &nbsp;&#63;&gt;
-            &nbsp;&lt;a&nbsp;href&#61;"https&#58;//hills&#46;ccsf&#46;edu/&#126;eandrew6/php&#95;conditional&#95;statements&#46;html"&gt;Click&nbsp;here&nbsp;to&nbsp;return&nbsp;to&nbsp;the&nbsp;original&nbsp;form&lt;/a&gt;&lt;br/&gt;<br/>
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
