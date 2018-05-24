@@ -32,7 +32,6 @@
              
         &nbsp;&nbsp;&lt;input&nbsp;type&#61;"submit"&nbsp;value&#61;"Submit"&gt;<br />
         &nbsp;&lt;/form&gt;&lt;br&gt;
-        &nbsp;&lt;a&nbsp;href&#61;"php_conditional_statements_sourcecode.html"&gt;php_conditional_statements_sourcecode&lt;/a&gt;<br/>
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
