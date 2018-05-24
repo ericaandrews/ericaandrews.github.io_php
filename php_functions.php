@@ -17,7 +17,5 @@
     } 
     
     ?>
-    <br><br>
-    <a href="https://hills.ccsf.edu/~eandrew6/php_functions.html">Click here to return to the original form</a><br/>
 </body>    
 </html>
