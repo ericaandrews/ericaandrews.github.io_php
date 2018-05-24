@@ -124,9 +124,5 @@ change_data();
         $changeFacultyID = $_POST["studentFacultyID"];
     }    
 ?>
-    
-    <br /><br />
-    <a href="https://hills.ccsf.edu/~eandrew6/php_objects.html">Click here to return to the original form</a><br/>
-
-</body>    
+ </body>    
 </html>
