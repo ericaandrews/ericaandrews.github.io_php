@@ -42,8 +42,6 @@
         &nbsp;&lt;input&nbsp;type&#61;"reset"&gt;<br/>
         &nbsp;&lt;input&nbsp;type&#61;"submit"&nbsp;value&#61;"Submit"&gt;<br/>
         &lt;/form&gt;&lt;br&gt;&lt;br&gt;<br/>
-        &lt;br&gt;&lt;br&gt;<br />
-        &lt;a&nbsp;href&#61;"https://hills.ccsf.edu/~eandrew6/php_changing_database_sourcecode.php"&gt;php&#95;changing&#95;database&#95;sourcecode&lt;/a&gt;&lt;br&gt;<br/>       
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>  
