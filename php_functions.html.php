@@ -21,7 +21,7 @@
          &nbsp;option&nbsp;value&#61;"rooster:cock-a-doodle-doo"&gt;Rooster<br / >
          &nbsp;&lt;/select&gt;&lt;/p&gt;<br />
          &nbsp;&lt;input&nbsp;type&#61;"submit"&nbsp;value&#61;"Submit"&gt;<br />
-         &nbsp;&lt;/form&gt;&lt;br&gt;<br /> &nbsp;&lt;a&nbsp;href&#61;"php_functions_sourcecode.html.php"&gt;php_functions_sourcecode&lt;/a&gt;<br/>
+         &nbsp;&lt;/form&gt;&lt;br&gt;<br /> 
         &lt;/body&gt;<br />
         &lt;/html&gt;<br />
     </code>
